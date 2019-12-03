@@ -18,9 +18,9 @@
 
 [10. Decision Trees Training](https://github.com/jigsawlabs-student/zero-to-ml/blob/master/4-decision-trees/2-decision-trees-training.pdf)
 
-[11. Decision Trees Lab](https://github.com/jigsawlabs-student/zero-to-ml/blob/master/4-decision-trees/6-decision-trees-lab.ipynb)
+[11. Decision Trees Lab](https://colab.research.google.com/github/jigsawlabs-student/zero-to-ml/blob/master/4-decision-trees/6-decision-trees-lab.ipynb)
 
-[12. Overfitting and Pruning](https://github.com/jigsawlabs-student/zero-to-ml/blob/master/4-decision-trees/7-overfitting-and-pruning.ipynb)
+[12. Overfitting and Pruning](https://colab.research.google.com/github/jigsawlabs-student/zero-to-ml/blob/master/4-decision-trees/7-overfitting-and-pruning.ipynb)
 
 
 
