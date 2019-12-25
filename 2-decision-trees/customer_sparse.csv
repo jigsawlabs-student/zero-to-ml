@@ -1,0 +1,9 @@
+,under_thirty,borough,education_level,customer
+0,Yes,Manhattan,high school,0
+1,Yes,Brooklyn,college grad,0
+2,No,Brooklyn,high school,1
+3,No,Queens,some college,1
+4,No,Queens,high school,1
+5,No,Manhattan,law school,0
+6,No,Queens,mba,0
+7,Yes,Brooklyn,graduate school,0
